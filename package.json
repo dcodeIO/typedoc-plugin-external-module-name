@@ -18,11 +18,11 @@
   "author": "Chris Thielen",
   "license": "MIT",
   "peerDependencies": {
-    "typedoc": "^0.5.3"
+    "typedoc": ">=0.5.3"
   },
   "devDependencies": {
     "@types/handlebars": "^4.0.31",
-    "typedoc": "^0.5.3",
+    "typedoc": "^0.5.10",
     "typescript": "^2.1.1"
   }
 }
