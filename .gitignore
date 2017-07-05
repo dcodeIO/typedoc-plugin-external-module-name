@@ -2,9 +2,6 @@
 *.iws
 *.iml
 
-# Built using tsc
-plugin.js 
-
 # Logs
 logs
 *.log
